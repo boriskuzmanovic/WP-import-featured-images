@@ -10,7 +10,7 @@
 # 4. The list is passed to bash for processing.
 
 WP_CONTENT_DIR="/home/yh/public_html/wp-content" 
-SCRIPT_DIR="/root/wp_import_featured_images"     # No trailing slash
+SCRIPT_DIR="/root/WP-import-featured-images"     # No trailing slash
 DB_DUMP_FILE="$SCRIPT_DIR/db_dump"
 HOST_ALIAS=rehab
 
